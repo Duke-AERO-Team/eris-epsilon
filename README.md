@@ -1,3 +1,6 @@
+Note: This README is incomplete
+Whether or not we use KiCad is also undecided.
+
 # Eris Epsilon PCB
 Eris Epsilon is the 5th version of Duke AERO's SRAD flight computer ERIS.
 
